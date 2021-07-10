@@ -32,7 +32,7 @@ def insert_data(data):
 def retourarriere():
     # fonction de retour vers le menu principale
     afficher_window.destroy()
-    os.system("python ./main.py")
+    os.system("python main.py")
 
 
 canvas = Canvas(afficher_window, width=1200, height=500, bg="#263D42")

@@ -1,1 +1,22 @@
-{"221": {"nom": "Senegal", "capital": "Dakar", "population": 4000000, "langue": "Wolof", "superficie": "196712", "independance": "25-11-1958", "president": "Macky Sall", "pib": 20000000}}
+{
+     "221": {
+          "nom": "Senegal",
+          "capital": "Dakar",
+          "population": 4000000,
+          "langue": "Francais",
+          "superficie": "196712",
+          "independance": "25-11-1958",
+          "president": "Macky Sall",
+          "pib": 20000000
+     },
+     "224": {
+          "nom": "Guinee",
+          "capital": "Conakry",
+          "population": 12770000,
+          "langue": "Francais",
+          "superficie": 245857,
+          "independance": "2-10-1958",
+          "president": "Alpha Conde",
+          "pib": 12300000000
+     }
+}

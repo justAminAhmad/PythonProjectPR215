@@ -107,7 +107,7 @@ def clear_entries():
 
 def retourarriere():
     entrer_window.destroy()
-    os.system("python ./main.py")
+    os.system("python main.py")
 
 
 canvas = Canvas(entrer_window, width=800, height=600, bg="#263D42")

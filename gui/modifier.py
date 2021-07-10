@@ -41,7 +41,7 @@ def selection():
 
 def retourarriere():
     modifier_window.destroy()
-    os.system("python ./main.py")
+    os.system("python main.py")
 
 
 canvas = Canvas(modifier_window, width=1200, height=600, bg="#263D42")
